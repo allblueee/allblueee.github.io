@@ -1,1 +1,1 @@
-HELLO, I'm allblueee!
+HELLO, I'm allblueee, a frontend engineer!
