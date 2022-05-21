@@ -1,0 +1,1 @@
+const e={key:"v-e02a086e",path:"/javascript/",title:"\u4ECB\u7ECD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653139695e3,contributors:[{name:"allblueee",email:"allblueee798@gmail.com",commits:1}]},filePathRelative:"javascript/README.md"};export{e as data};

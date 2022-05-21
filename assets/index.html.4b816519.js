@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as r}from"./app.5c313abf.js";const t={};function c(l,_){return n(),r("p",null,"HELLO, I'm allblueee, a frontend engineer!")}var o=e(t,[["render",c],["__file","index.html.vue"]]);export{o as default};

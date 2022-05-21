@@ -1,0 +1,1 @@
+const e={key:"v-70bc2959",path:"/algorithm/",title:"algorithm README.md",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653139695e3,contributors:[{name:"allblueee",email:"allblueee798@gmail.com",commits:1}]},filePathRelative:"algorithm/README.md"};export{e as data};

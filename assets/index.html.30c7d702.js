@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o,b as r}from"./app.5c313abf.js";const d={},s={id:"algorithm-readme-md",tabindex:"-1"},c=o("a",{class:"header-anchor",href:"#algorithm-readme-md","aria-hidden":"true"},"#",-1),_=r(" algorithm README.md"),n=[c,_];function i(h,m){return t(),a("h1",s,n)}var f=e(d,[["render",i],["__file","index.html.vue"]]);export{f as default};
